@@ -1,1 +1,1 @@
-# Digital-Clock
+This digital clock application is a simple console-based program that demonstrates basic time and date manipulation and display techniques in C. It uses system functions to fetch and format the current time,date, and it continuously updates the display to show the current time in hours, minutes, and seconds. The clock displays the current time in  24-hour format and 12 hour format and updates every second.
